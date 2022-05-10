@@ -15,6 +15,9 @@
 body{
     font-family: 'Inter', sans-serif;
 }
+.col{
+    background-color: green;
+}
 a{
     text-decoration: none;
     color: white;
